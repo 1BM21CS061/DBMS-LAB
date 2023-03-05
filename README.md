@@ -1,5 +1,5 @@
 # DBMS-LAB
 
-DBMS :-
+DBM
 
 CHANGES MADE!!
